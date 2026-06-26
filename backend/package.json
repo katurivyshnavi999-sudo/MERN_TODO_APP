@@ -1,3 +1,14 @@
+"homepage":{
+  "https://katurivyshnavi999-sudo.github.io/MERN_TODO_APP/",
+  {
+  "name": "name",
+  "description": "description",
+  "authors": "author",
+  "version": "1.0.0",
+  "main": "pathToMain",
+  "dependencies": {}
+}
+
 {
   "name": "backend",
   "version": "1.0.0",
